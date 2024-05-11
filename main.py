@@ -19,7 +19,7 @@ from pathlib import Path
 import hashlib
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyAm_108FVUgFl_4lJO5Myr6iABb_J-QB_8")
+genai.configure(api_key="")
 
 # Inicializa modelo
 
